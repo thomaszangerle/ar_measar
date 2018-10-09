@@ -4,6 +4,8 @@
 #' @param table Table name.
 #' @return A tibble with the ins01 dataset.
 #' @import tidyverse
+#' @export
+
 
 ins01_read_from_aws_mysql <- function(table){
 

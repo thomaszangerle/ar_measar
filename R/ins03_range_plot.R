@@ -2,7 +2,6 @@
 #'
 #' @param ins03
 #' @param xmax Value to be used to filter the ranges to lower values
-#'
 #' @return a plot
 
 ins03_range_plot <- function(ins03, xmax = Inf){
